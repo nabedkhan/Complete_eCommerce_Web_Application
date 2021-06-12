@@ -2,6 +2,8 @@
 
 > eCommerce platform built with the MERN stack, Firebase and Redux.
 
+![screenshot](https://github.com/nabedkhan/Complete_eCommerce_Web_Application/blob/master/screenshot.png)
+
 ## Features
 
 - Select Category and Subcategory Based Products
